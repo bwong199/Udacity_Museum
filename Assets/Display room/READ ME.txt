@@ -1,0 +1,1 @@
+To assure the best visual quality, you will need to simply import the "effects" package from the standard assets of Unity and then activate the scripts on the Main camera in the scene.
